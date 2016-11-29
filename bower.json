@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "dependencies": {
     "bootstrap": "3.3.7",
-    "isotope": "3.0.1"
+    "isotope": "3.0.1",
+    "font-awesome": "fontawesome#^4.7.0"
   }
 }
