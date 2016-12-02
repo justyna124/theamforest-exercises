@@ -126,6 +126,9 @@ p {
 .education h6{
     margin-bottom: 70px;
 }
+.education ul{
+    list-style-type:none;
+}
 .employment h6{
     margin-bottom: 70px;
 }
